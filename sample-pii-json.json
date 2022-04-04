@@ -1,5 +1,4 @@
-{"result": {
-        "data_info": [
+{"data_info": [
 	        {"pii_type": "passport"},
 	        {"severity": "high"},
             	{"file_format": "pdf"},
@@ -18,5 +17,4 @@
 		    {"personal_signature": true}
 	     ],
 	    "processing_time": "80.6 ms"
-    }
 }
