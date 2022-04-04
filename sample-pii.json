@@ -2,7 +2,7 @@
         "data_info": [
 	        {"pii_type": "passport"},
 	        {"severity": "high"},
-            {"file_format": "pdf"},
+            {"file_format": ["pdf", "txt", "docx"]},
 	        {"archive_name": "passport 2022.tar.gz"},
 	        {"file_name": "bob_p_scanned.pdf"},
 	        {"ingest_source": "s3://laptop_backups/bob/2022/12/Documents/"}
