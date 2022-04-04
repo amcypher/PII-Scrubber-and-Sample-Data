@@ -1,8 +1,8 @@
-{   "result": {
+{"result": {
         "data_info": [
 	        {"pii_type": "passport"},
 	        {"severity": "high"},
-            {"file_format": ["pdf", "txt", "docx"]},
+            	{"file_format": "pdf"},
 	        {"archive_name": "passport 2022.tar.gz"},
 	        {"file_name": "bob_p_scanned.pdf"},
 	        {"ingest_source": "s3://laptop_backups/bob/2022/12/Documents/"}
@@ -16,7 +16,7 @@
 		    {"sex": "M"},
 		    {"marital_status": "married"},
 		    {"personal_signature": true}
-	        ],
+	     ],
 	    "processing_time": "80.6 ms"
     }
 }
