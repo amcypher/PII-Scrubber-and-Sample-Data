@@ -10,7 +10,7 @@
 	    "pii_instances": [
 		    {"name": "bob Pereira"},
 		    {"date_of_birth": "1984/07/10"},
-		    {'ssn': '200-00-8888'},
+		    {"ssn": '200-00-8888'},
 		    {"personal_photo": true},
 		    {"home_address": "1 Liberty Plaza, New York City, NY"},
 		    {"sex": "M"},
