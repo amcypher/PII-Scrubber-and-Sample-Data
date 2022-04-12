@@ -4,11 +4,11 @@
             	{"file_format": "pdf"},
 	        {"archive_name": "passport 2022.tar.gz"},
 	        {"file_name": "bob_p_scanned.pdf"},
-	        {"ingest_source": "s3://laptop_backups/bob/2022/12/Documents/"}
+	        {"ingest_source": "s3://backups/bob/2022/12/Documents/"}
             ],
 	    "pii_instances": [
-		    {"name": "bob Pereira"},
-		    {"date_of_birth": "1984/07/10"},
+		    {"name": "bob foo-bar"},
+		    {"date_of_birth": "1994/08/20"},
 		    {"ssn": "200-00-8888"},
 		    {"personal_photo": true},
 		    {"home_address": "1 Liberty Plaza, New York City, NY"},
