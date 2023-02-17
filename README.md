@@ -6,7 +6,7 @@ python3 scrubba.py
 
 # Expected print out.
 
-dict_keys(['data_info', 'pii_instances', 'processing_time'])
+```dict_keys(['data_info', 'pii_instances', 'processing_time'])
 {'data_info': [{'pii_type': 'passport'},
                {'severity': 'high'},
                {'file_format': 'pdf'},
@@ -21,6 +21,6 @@ dict_keys(['data_info', 'pii_instances', 'processing_time'])
                    {'sex': 'M'},
                    {'marital_status': 'married'},
                    {'personal_signature': True}],
- 'processing_time': '80.6 ms'}
+ 'processing_time': '80.6 ms'}```
 
 
