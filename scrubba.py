@@ -1,4 +1,3 @@
-#https://raw.githubusercontent.com/amcypher/PII-Scrubber-and-Sample-Data/main/pii-json.json
 #Necessary Imports
 from unittest import result
 import requests
