@@ -1,5 +1,5 @@
 # Scrubba.py
-Scrubba.py example of a script I created to demenstrate how to parse pii out of an a mock endpoint(github repo) utilizing python3.
+Scrubba.py example of a script created to demenstrate how to parse pii out of an a mock endpoint(github repo) utilizing python3.
 
 # To run.
 python3 scrubba.py
