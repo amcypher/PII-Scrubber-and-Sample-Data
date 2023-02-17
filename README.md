@@ -1,2 +1,2 @@
 # sample-data
-Sample dataset for a sample python script.
+Scrubba.py example of a script I created to demenstrate how to parse pii out of an a mock endpoint(github repo) utilizing python3.
