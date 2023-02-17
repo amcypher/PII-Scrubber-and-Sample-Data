@@ -1,2 +1,2 @@
 # sample-data
-Sample Data for python processing.
+Sample Dataset for a sample python script.
