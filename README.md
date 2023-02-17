@@ -22,5 +22,3 @@ python3 scrubba.py
                    {'marital_status': 'married'},
                    {'personal_signature': True}],
  'processing_time': '80.6 ms'}```
-
-
