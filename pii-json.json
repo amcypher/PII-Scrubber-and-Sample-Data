@@ -1,4 +1,4 @@
-dict_keys(['data_info', 'pii_instances', 'processing_time', 'processing_details'])
+{ dict_keys(['data_info', 'pii_instances', 'processing_time', 'processing_details'])
 {
     "data_info": {
         "pii_type": "passport",
