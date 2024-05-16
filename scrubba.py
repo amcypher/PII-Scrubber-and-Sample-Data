@@ -1,4 +1,3 @@
-#headers = {"Content-Type": "application/json", "X-Auth-Key": key, "X-Auth-Email": email}
 # Necessary Imports
 import requests
 import json
